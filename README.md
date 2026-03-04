@@ -102,7 +102,7 @@ I'm open to:
 ## 📫 Let’s Connect  
 
 📧 Email: crystalnyobel@gmail.com  
-🌐 LinkedIn: linkedin.com/in/crystalachieng  
+🌐 LinkedIn: [LinkedIn](https://linkedin.com/in/crystalachieng)  
 💻 GitHub: github.com/nyobel  
 
 ---
