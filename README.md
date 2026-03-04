@@ -74,10 +74,10 @@ Python | Machine Learning | Streamlit
 ## 🧩 Tech Stack
 
 **Languages:** Python, SQL
-**Data & ML:** Pandas, NumPy, Scikit-learn
-**BI & Visualization:** Power BI
-**Data Engineering Concepts:** ETL Pipelines, Medallion Architecture, Star Schema Modeling
-**Core Strengths:** Statistical Analysis, Predictive Modeling, Data Cleaning, KPI Design
+- **Data & ML:** Pandas, NumPy, Scikit-learn
+- **BI & Visualization:** Power BI
+- **Data Engineering Concepts:** ETL Pipelines, Medallion Architecture, Star Schema Modeling
+- **Core Strengths:** Statistical Analysis, Predictive Modeling, Data Cleaning, KPI Design
 
 ---
 
