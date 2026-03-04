@@ -101,9 +101,9 @@ I'm open to:
 
 ## 📫 Let’s Connect  
 
-📧 Email: crystalnyobel@gmail.com  
-🌐 LinkedIn: [https://linkedin.com/in/crystalachieng]  
-💻 GitHub: [github.com/nyobel]  
+📧 Email: <mailto:crystalnyobel@gmail.com>  
+🌐 LinkedIn: <https://linkedin.com/in/crystalachieng>  
+💻 GitHub: <https://github.com/nyobel>  
 
 ---
 
